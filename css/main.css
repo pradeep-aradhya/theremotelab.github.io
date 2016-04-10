@@ -1,26 +1,3 @@
-/* =================================================================== */
-/*
-/*  KREO v1.0 Main Stylesheet
-/*  url: styleshout.com
-/*  10-12-2015
-/*
-/*	 TOC:
-/*  01. =webfonts and iconfonts
-/*  02. =document setup
-/*  03. =preloader
-/*  04. =forms
-/*  05. =theme common styles
-/*  06. =header styles
-/*  07. =hero section
-/*  08. =portfolio styles
-/*  09. =services
-/*  10. =about
-/*  11. =testimonials
-/*  12. =contact
-/*  13. =footer
-/*
-/* =================================================================== */
-
 /**
 /* 01. =webfonts and iconfonts
 /* =================================================================== */
@@ -667,7 +644,7 @@ header .logo a {
 	color: transparent;
 	width: 114px;
 	height: 66px;
-	background: url("../images/logo_white.png") no-repeat center;
+	background: url("../images/logo.jpg") no-repeat center;
 	background-size: 61px 66px;
 }
 
